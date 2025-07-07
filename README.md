@@ -42,12 +42,12 @@ Giao diện nhận và giải mã :
 
 Giao diện hoàn thành và thông báo :
 * Mã hòa và gửi:
-* 
+  
 ![guifillethanhcong](https://github.com/user-attachments/assets/9d67b3b6-5509-4a96-863a-11fbbccce580)
 * Nhận và giải mã:
-* 
+  
 ![giaimathanhcong](https://github.com/user-attachments/assets/51b8d9b5-aaf9-4d2b-8ba9-917fd9424624)
 * kết quả sau khi giải mã:
-* 
+  
 ![ketqua](https://github.com/user-attachments/assets/14c6960d-c8cc-4786-9a6d-841849cd1030)
 
